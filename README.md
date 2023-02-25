@@ -16,6 +16,7 @@ Changes made :
 - border-radius: 6px;
 - border-color: burlywood;
 - color: black
+
 You will skin 3 project gutenberg stories with custom CSS.
 
 You will skin 2 versions of a possible professional homepage for your
