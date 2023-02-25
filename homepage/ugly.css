@@ -1,0 +1,23 @@
+body
+{
+    background-color: hotpink
+}
+h1,h2
+{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.sidebar
+{
+    align-items: right;
+    background-color: gray;
+}
+.container
+{
+    align-items: center;
+    background-color: green;
+}
+#pic{
+    height: 1in;
+    width: 1in;
+}
