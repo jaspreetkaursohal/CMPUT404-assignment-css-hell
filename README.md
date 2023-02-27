@@ -37,4 +37,14 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+"Copyright (c) 2023 Jaspreet Kaur Sohal
+
+This code is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC-BY-ND).
+
+You are free to share this code under the following terms:
+
+Attribution: You must give credit to Jaspreet Kaur Sohal as the original creator of the photograph.
+No Derivatives: You may not modify, adapt, or build upon this code.
+For more information about the CC-BY-ND license, visit https://creativecommons.org/licenses/by-nd/4.0/"
+
 
